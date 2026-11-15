@@ -1,14 +1,14 @@
-# LinkLift Privacy Policy
+# URLLift Privacy Policy
 
 Last updated: 2026-11-15
 
-LinkLift does not collect, store or transmit any personal data.
+URLLift does not collect, store or transmit any personal data.
 
-- **Page content.** When you click the LinkLift icon, the extension reads the
+- **Page content.** When you click the URLLift icon, the extension reads the
   links on the tab you are viewing so it can show and export them. This
   happens entirely inside your browser. Page contents are never sent to us or
   to anyone else.
-- **No tracking.** LinkLift contains no analytics, advertising or tracking code.
+- **No tracking.** URLLift contains no analytics, advertising or tracking code.
 - **Local storage.** The extension stores only its own settings on your device
   (your license key, if you enter one, and a counter of free Pro exports used).
 - **License check.** If you enter a license key, the key is sent to Gumroad
